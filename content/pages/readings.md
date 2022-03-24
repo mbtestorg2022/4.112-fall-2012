@@ -6,11 +6,11 @@ uid: 610f6d9f-5425-5b1d-9c2e-00092c021f0a
 
 The following readings introduce the concepts of programmable matter and machines, as well as offer precedents from research across a number of disciplines.
 
-Tolley, M. T., M. Krishnan, et al. ["![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Advances Towards Programmable Matter." (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.646.669&rep=rep1&type=pdf) _Proc. Int. Conf. Miniaturized Systems for Chemistry and Life Sciences_ (2008): 653–5.
+Tolley, M. T., M. Krishnan, et al. ["Advances Towards Programmable Matter." (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.646.669&rep=rep1&type=pdf) _Proc. Int. Conf. Miniaturized Systems for Chemistry and Life Sciences_ (2008): 653–5.
 
 Knaian, Ara. "[Design of Programmable Matter](https://dspace.mit.edu/handle/1721.1/42073)." M. S. in Media Arts and Sciences Thesis. MIT, 2008.
 
-Knight, T. F., and G. J. Sussman. "[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Cellular Gate Technology." (PDF - 1.0MB)](http://dspace.mit.edu/bitstream/handle/1721.1/29793/CGT.pdf) MIT Artificial Intelligence Laboratory (July 1997).
+Knight, T. F., and G. J. Sussman. "[Cellular Gate Technology." (PDF - 1.0MB)](http://dspace.mit.edu/bitstream/handle/1721.1/29793/CGT.pdf) MIT Artificial Intelligence Laboratory (July 1997).
 
 Vacanti, M. P., and C. A. Vacanti. "[Biological Scaffolding Material](http://www.google.com/patents/US7319035)." U.S. Patent 7,319,035. Filed October 17, 2003 and issued January 15, 2008.
 
@@ -28,12 +28,12 @@ Mitchell, William J. "The Logic of Architecture: Programming the Invention of Ph
 
 Penrose, L. S. "[Mechanics of Self-Reproduction](http://dx.doi.org/10.1111/j.1469-1809.1958.tb01442.x)." _Annals of Human Genetics_ 23, no. 1 (1958): 59–72.
 
-———. "[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Self-Reproducing Machines." (PDF - 1.5MB)](http://www.cs.jhu.edu/~basu/Papers/penrose1959.pdf) _Scientific American_ 202, no. 6 (1959): 105–14.
+———. "[Self-Reproducing Machines." (PDF - 1.5MB)](http://www.cs.jhu.edu/~basu/Papers/penrose1959.pdf) _Scientific American_ 202, no. 6 (1959): 105–14.
 
-Lee, Kiju, and Gregory S. Chirikjian. "[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Robotic Self-Replication: A Descriptive Framework and a Physical Demonstration from Low-Complexity Parts." (PDF - 1.4MB)](https://rpk.lcsr.jhu.edu/wp-content/uploads/2014/08/K_lee07_a.pdf) _IEEE Robotics & Automation Magazine_ 14, no. 7 (2007): 34–43.
+Lee, Kiju, and Gregory S. Chirikjian. "[Robotic Self-Replication: A Descriptive Framework and a Physical Demonstration from Low-Complexity Parts." (PDF - 1.4MB)](https://rpk.lcsr.jhu.edu/wp-content/uploads/2014/08/K_lee07_a.pdf) _IEEE Robotics & Automation Magazine_ 14, no. 7 (2007): 34–43.
 
 Aranda, B., and C. Lasch. "Spiraling." In _Pamphlet Architecture 27: Tooling_. Princeton Architectural Press, 2005, pp. 12–3. ISBN: 9781568985473.
 
-Von Neumann, John. "[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)The Role of High and of Extremely High Complication." (PDF - 1.5MB)](http://cba.mit.edu/events/03.11.ASE/docs/VonNeumann.pdf) Chapter 4 in _Theory of Self-Reproducing Automata_. Edited and completed by Arthur W. Burks. University of Illinois Press, 1966, pp. 64–73.
+Von Neumann, John. "[The Role of High and of Extremely High Complication." (PDF - 1.5MB)](http://cba.mit.edu/events/03.11.ASE/docs/VonNeumann.pdf) Chapter 4 in _Theory of Self-Reproducing Automata_. Edited and completed by Arthur W. Burks. University of Illinois Press, 1966, pp. 64–73.
 
-———. "[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Re-evaluation of the Problems of Complicated Automata—Problems of Hierarchy and Evolution." (PDF - 1.5MB)](http://cba.mit.edu/events/03.11.ASE/docs/VonNeumann.pdf) Chapter 5 in _Theory of Self-Reproducing Automata_. Edited and completed by Arthur W. Burks. University of Illinois Press, 1966, pp. 74–87.
+———. "[Re-evaluation of the Problems of Complicated Automata—Problems of Hierarchy and Evolution." (PDF - 1.5MB)](http://cba.mit.edu/events/03.11.ASE/docs/VonNeumann.pdf) Chapter 5 in _Theory of Self-Reproducing Automata_. Edited and completed by Arthur W. Burks. University of Illinois Press, 1966, pp. 74–87.
