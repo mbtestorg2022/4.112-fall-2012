@@ -11,6 +11,7 @@ image_metadata:
   credit: Courtesy of Juanita Ballesteros. Used with permission.
   image-alt: Network of black lines with some clustering around polygonal shapes on
     a white background.
+parent_uid: 8560a4fe-7994-ff9f-0f62-d76be228874b
 resourcetype: Image
 title: Thumbnail_Ex1_JB.jpg
 uid: 8074481f-9495-14a1-48d9-d16112734f6d

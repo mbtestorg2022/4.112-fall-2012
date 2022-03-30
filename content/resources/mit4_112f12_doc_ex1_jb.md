@@ -4,6 +4,7 @@ description: This resource contains information regarding the Belousov-Zhabotins
   reaction.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/4-112-architecture-design-fundamentals-i-nano-machines-fall-2012/5e744054f43844d79a1ad4075fa53009_MIT4_112F12_Doc_Ex1_JB.pdf
 file_type: application/pdf
+parent_uid: 8560a4fe-7994-ff9f-0f62-d76be228874b
 resourcetype: Document
 title: 'Project 1: The Belousov-Zhabotinsky Reaction'
 uid: 5e744054-f438-44d7-9a1a-d4075fa53009

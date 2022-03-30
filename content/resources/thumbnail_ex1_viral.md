@@ -10,6 +10,7 @@ image_metadata:
   credit: Courtesy of MIT Student. Used with permission.
   image-alt: Fine, short black lines that show feathering around three circular clusters
     on a white background.
+parent_uid: 8560a4fe-7994-ff9f-0f62-d76be228874b
 resourcetype: Image
 title: Thumbnail_Ex1_Viral.jpg
 uid: 5aa2218c-32ed-7b36-b9a6-0a1addcad889

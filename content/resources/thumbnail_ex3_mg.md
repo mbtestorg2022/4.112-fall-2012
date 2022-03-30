@@ -8,6 +8,7 @@ image_metadata:
   caption: Final model of branch growth using plexiglass plates and rods.
   credit: Courtesy of Marianna Gonzalez. Used with permission.
   image-alt: Photograph of bundled, white clear tubes against a black background.
+parent_uid: 8560a4fe-7994-ff9f-0f62-d76be228874b
 resourcetype: Image
 title: Thumbnail_Ex3_MG.jpg
 uid: 090f365b-a26f-aa6a-167c-d15bcbaa8d71

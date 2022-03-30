@@ -10,6 +10,7 @@ image_metadata:
   credit: Courtesy of MIT Student. Used with permission.
   image-alt: Black lines forming general outlines of rectangles and some interconnectivity
     on a white background.
+parent_uid: 8560a4fe-7994-ff9f-0f62-d76be228874b
 resourcetype: Image
 title: Thumbnail_Ex1_EMT.jpg
 uid: 9a3d8e03-6fa7-aab7-7021-7558af0a76ad

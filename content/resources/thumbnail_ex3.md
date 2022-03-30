@@ -9,6 +9,7 @@ image_metadata:
     chambers, and vortex rings.
   credit: Courtesy of Anonymous Student. Used with permission.
   image-alt: Photograph of faceted, clear plastic around a darker core.
+parent_uid: 8560a4fe-7994-ff9f-0f62-d76be228874b
 resourcetype: Image
 title: Thumbnail_Ex3.jpg
 uid: 291c27d8-7798-646b-b3c4-13ef512391cf

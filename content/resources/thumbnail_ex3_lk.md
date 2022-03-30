@@ -9,6 +9,7 @@ image_metadata:
   credit: "Courtesy of Lina Kara\u2019in. Used with permission."
   image-alt: Drawing of vertical branches with horizontal divisions of spaces and
     contour lines on the branches.
+parent_uid: 8560a4fe-7994-ff9f-0f62-d76be228874b
 resourcetype: Image
 title: Thumbnail_Ex3_LK.jpg
 uid: f341e1de-336c-4f43-2a2e-162226ec3ea4
